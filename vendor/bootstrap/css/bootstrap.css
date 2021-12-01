@@ -3400,7 +3400,7 @@ fieldset[disabled] .btn-danger.focus {
 }
 .btn-link {
   font-weight: normal;
-  color: #337ab7;
+  color: #34bcaa;
   border-radius: 0;
 }
 .btn-link,
@@ -4875,7 +4875,7 @@ a.label:focus {
   background-color: #5e5e5e;
 }
 .label-primary {
-  background-color: #337ab7;
+  background-color: #34bcaa;
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
