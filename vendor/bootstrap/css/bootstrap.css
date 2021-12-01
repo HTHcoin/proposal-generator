@@ -3163,12 +3163,12 @@ fieldset[disabled] .btn-primary:focus,
 .btn-primary.disabled.focus,
 .btn-primary[disabled].focus,
 fieldset[disabled] .btn-primary.focus {
-  background-color: #337ab7;
-  border-color: #2e6da4;
+  background-color: #34bcaa;
+  border-color: #34bcaa;
 }
 .btn-primary .badge {
-  color: #337ab7;
-  background-color: #fff;
+  color: #34bcaa;
+  background-color: #000;
 }
 .btn-success {
   color: #000;
@@ -3202,9 +3202,9 @@ fieldset[disabled] .btn-primary.focus {
 .btn-success:active.focus,
 .btn-success.active.focus,
 .open > .dropdown-toggle.btn-success.focus {
-  color: #fff;
-  background-color: #398439;
-  border-color: #255625;
+  color: #000;
+  background-color: #34bcaa;
+  border-color: #34bcaa;
 }
 .btn-success:active,
 .btn-success.active,
