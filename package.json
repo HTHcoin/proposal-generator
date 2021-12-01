@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/HTHcoin/proposal-generator#readme",
   "devDependencies": {
-    "@HTHcoin/helpthehomeless-lib": "^0.16.8",
+    "@hthcoin/helpthehomeless-lib": "^0.16.8",
     "browserify": "^16.2.3",
     "eslint": "^5.13.0"
   }
